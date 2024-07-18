@@ -4,5 +4,6 @@
       "path": "."
     }
   ],
-  "settings": {}
+  "settings": {},
+  "recommendations": ["ms-python.python", "ms-python.black-formatter"]
 }
